@@ -36,7 +36,7 @@ const Home = () => {
             <div className="CV_tag"><a href="https://drive.google.com/file/d/1H63eOwzaUFHgufDCr03Js3NYpMAGXLoh/view?usp=sharing">Download CV</a></div>
           </div>
           <div className="image_animated">
-            <img className="image_style" src="public/images.png" alt="" />
+            <img className="image_style" src="images.png" alt="Images" />
           </div>
         </div>
       </div>
