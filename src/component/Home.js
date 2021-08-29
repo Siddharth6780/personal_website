@@ -33,9 +33,10 @@ const Home = () => {
             <SocialIcon className="links" url="https://www.facebook.com/siddhharth.singh.9" fgColor="#fff" />
             <SocialIcon className="links" url="https://twitter.com/siddharth6780" fgColor="#fff"/>
             </div>
+            <div className="CV_tag"><a href="https://drive.google.com/file/d/1H63eOwzaUFHgufDCr03Js3NYpMAGXLoh/view?usp=sharing">Download CV</a></div>
           </div>
           <div className="image_animated">
-            <img className="image_style" src="130381.png" alt="" />
+            <img className="image_style" src="" alt="" />
           </div>
         </div>
       </div>
